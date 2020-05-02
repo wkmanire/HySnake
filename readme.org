@@ -15,17 +15,3 @@ To run the game:
 - C-c quits the games
 
 [[./docs/first-version.png][screenshot 1]]
-
-Try to collect as much food as you can. Earn a high score!
-
-* Tasks
-** TODO Create proper requirements.txt
-** TODO Add title screen
-** TODO Add game over screen
-** TODO Allow pressing escape to quit
-** DONE Improve snake rendering 
-** DONE Don't allow food to spawn inside of snake body
-** DONE Limit the size of the field to something reasonable (24x40)
-** DONE Show running points total
-** DONE Draw walls around the border
-** DONE If snake goes out of bounds, wrap the snake around to the other side
